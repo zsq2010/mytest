@@ -1,8 +1,12 @@
 { 	
-	"userId1":{
-				"timeEnd":"20181130"
-	},
-	"userId2":{
-				"timeEnd":"20181130"
-	},
+"requestCode1":{
+"psw": "password",
+ 	"usr": "username",
+"timeEnd":"20181130"
+},
+"requestCode2":{
+"psw": "password",
+ 	"usr": "username",
+"timeEnd":"20181130"
+},
 }
