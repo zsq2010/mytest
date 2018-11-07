@@ -1,8 +1,10 @@
-{
-    "uid1": {
-        "name": "admin",
-        "psw": 123,
-        "due": "20181111"
-        "code":"123456"
-    }
+{ 	
+	"userId1":{
+ 				"pin": "Brett",
+				"timeEnd":"20181130"
+	},
+	"userId2":{
+ 				"pin": "Brett",
+				"timeEnd":"20181130"
+	},
 }
