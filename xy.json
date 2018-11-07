@@ -1,7 +1,7 @@
 { 	
 "BFEBFBFF00040651":{
-"psw": "password",
- 	"usr": "username",
+"psw": "psw",
+ 	"usr": "user",
 "timeEnd":"20181130"
 },
 "requestCode2":{
