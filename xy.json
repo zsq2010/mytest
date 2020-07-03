@@ -1,1 +1,6 @@
-{"version":"2","window":{"state":3,"screenX":25,"screenY":25,"width":790,"height":605,"test":{"nested":"object"}},"sidebar":{"visible":false,"width":"200"},"BFEBFBFF00040651":{"state":3,"screenX":25,"screenY":25,"width":790,"height":605,"test":{"nested":"object"}}}
+{"version":"dddd",
+ "window":{"state":3,
+ "screenX":25,
+"screenY":25,"width":790,"height":605,"test":{"nested":"object"}},"sidebar":{"visible":false,"width":"200"},
+ "BFEBFBFF00040651":{"state":3,"screenX":25,"screenY":25,"width":790,"height":605,"test":{"nested":"object"}
+                    }}
